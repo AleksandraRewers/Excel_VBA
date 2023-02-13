@@ -1,4 +1,4 @@
-# Excel_VBA
+# Excel_VBA_&_Macro
 
 **SortingRecords file:** The project aims to interact with users. The macro used in the excel file helps to automate the sorting process and improve the users' experience. Automation is prepared to handle the typing error.
 
